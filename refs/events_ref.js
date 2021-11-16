@@ -13,6 +13,6 @@ logger.on ('message', data => {
 })
 
 
-logger.log('Hello')
-logger.log('Hello')
-logger.log('Hello')
+logger.log('Edvin')
+logger.log('Kaapa')
+logger.log('SPTVR19')
